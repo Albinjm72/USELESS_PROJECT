@@ -1,83 +1,58 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Quality Camera 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Team Pheonix
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Albin Jose Mathew - Mar Baselios Christian College Of Engineering
+- Member 2: Abin George Varughese - Mar Baselios Christian College Of Engineering
+
 
 ### Project Description
-[2-3 lines about what your project does]
+Quality Camera is a purposely useless invention.
+It only works when the air conditions are “just right.”
+If the atmosphere isn't suitable, it refuses to take pictures.
+There’s no clear logic — just pure absurdity.
+The camera checks imaginary air standards before working.
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+In a world where cameras work too reliably, there’s a serious lack of devices that value atmospheric vibes over practicality. People are taking photos anytime, anywhere — without considering the "quality" of the air around them. This chaotic freedom leads to excessive documentation without regard for the air’s mood, freshness, or invisible standards. Clearly, what we need is a camera that says, “Not today.”
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+To address the "urgent" issue of cameras being too available, we created the Air-Qualified Camera — a device that refuses to take pictures unless the air meets its arbitrary standards. It adds drama, suspense, and a touch of ego to photography. No more boring, effortless clicks — this camera makes you earn your photo. Because sometimes, doing less... feels like doing more
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+- ESP32 CAM MODULE, ENS160 air quality sensor,TTL converter
+- Built in camera and SD card configurations
+- Arduino ide
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![Circuit]<img width="1165" height="624" alt="Screenshot 2025-08-02 055943" src="https://github.com/user-attachments/assets/b079780a-04be-4e46-a448-f0a3f7094852" />
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
+![Components]![WhatsApp Image 2025-08-02 at 06 55 49_f57289f0](https://github.com/user-attachments/assets/5f3df049-0ec2-4398-8db6-06506b5df418)
+
 *List out all components shown*
 
-![Build](Add photos of build process here)
+![Build]![WhatsApp Image 2025-08-02 at 06 55 49_2f83c0c6](https://github.com/user-attachments/assets/07b77fe7-8ea6-4be0-9dc8-67c45be9b0be)
+
 *Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+![Final]![WhatsApp Image 2025-08-02 at 06 55 50_f44aab96](https://github.com/user-attachments/assets/812a72b1-5123-4d9d-b406-a98f485f1ab9)
+
 
 ### Project Demo
 # Video
@@ -88,9 +63,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Albin Jose Mathew: coding , ideating
+- Abin George  Varughese: ideating , problem solving
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
